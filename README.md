@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marekkotowski
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python, C#, unity3d
+- 🌱 I’m currently learning C#,  python,  unity3d
 - 💞️ I’m looking to find the best solution :) 
 - 📫 How to reach me marek-kotowski@o2.pl
 
